@@ -1,4 +1,6 @@
 .idea/*
 *.pyc
 *.txt
+__pycache__/*
+upload/*
 
